@@ -1,0 +1,124 @@
+# Portuguese translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# fernando <kurumin@disroot.org>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-18 03:09-0300\n"
+"PO-Revision-Date: 2026-09-18 03:17-0300\n"
+"Last-Translator: fernando <kurumin@disroot.org>\n"
+"Language-Team: Portuguese <translation-team-pt@googlegroups.com>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Missing dependencies"
+msgstr "Dependências ausentes"
+
+msgid "The following programs are not installed:"
+msgstr "Os seguintes programas não estão instalados:"
+
+msgid "Please install them before running wl-color-picker."
+msgstr "Instale-os antes de executar o wl-color-picker."
+
+msgid "No Wayland session found."
+msgstr "Nenhuma sessão Wayland encontrada."
+
+msgid "This color picker must be run under a valid Wayland session."
+msgstr "Este seletor de cores deve ser executado em uma sessão Wayland válida."
+
+msgid "Select color"
+msgstr "Selecionar cor"
+
+msgid "Color copied to clipboard."
+msgstr "Cor copiada para a área de transferência."
+
+msgid "Saved colors"
+msgstr "Cores salvas"
+
+msgid "No saved colors."
+msgstr "Nenhuma cor salva."
+
+msgid "Select a saved color."
+msgstr "Selecione uma cor salva."
+
+msgid "Color"
+msgstr "Cor"
+
+msgid "Open"
+msgstr "Abrir"
+
+msgid "Delete"
+msgstr "Excluir"
+
+msgid "Clear all"
+msgstr "Limpar tudo"
+
+msgid "Close"
+msgstr "Fechar"
+
+msgid "A simple color picker for Wayland/wlroots."
+msgstr "Um seletor de cores simples para Wayland/wlroots."
+
+msgid "Usage"
+msgstr "Uso"
+
+msgid "Commands"
+msgstr "Comandos"
+
+msgid "Select a color and copy it directly to the clipboard"
+msgstr "Selecionar uma cor e copiá-la diretamente para a área de transferência"
+
+msgid "Show saved colors"
+msgstr "Mostrar cores salvas"
+
+msgid "Options"
+msgstr "Opções"
+
+msgid "Don't show a system notification of copied color"
+msgstr "Não mostrar uma notificação do sistema sobre a cor copiada"
+
+msgid "Show this help message"
+msgstr "Mostrar esta mensagem de ajuda"
+
+msgid "WL Color Picker"
+msgstr "Seletor de Cores WL"
+
+msgid "Choose an option:"
+msgstr "Escolha uma opção:"
+
+msgid "Option"
+msgstr "Opção"
+
+msgid "Pick a color"
+msgstr "Escolher uma cor"
+
+msgid "Select"
+msgstr "Selecionar"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Invalid command"
+msgstr "Comando inválido"
+
+msgid "Only one command can be specified."
+msgstr "Somente um comando pode ser especificado."
+
+msgid "Invalid option"
+msgstr "Opção inválida"
+
+msgid "Unknown option:"
+msgstr "Opção desconhecida:"
+
+msgid "Use --help to see available options."
+msgstr "Use --help para ver as opções disponíveis."
+
+msgid "wl-copy and notify-send are required to manage saved colors."
+msgstr "wl-copy e notify-send são necessários para gerenciar as cores salvas."
+

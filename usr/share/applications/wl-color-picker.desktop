@@ -1,0 +1,53 @@
+[Desktop Entry]
+Type=Application
+
+Name=Color Picker for Wayland
+Name[pt_BR]=Seletor de Cores para Wayland
+Name[pt]=Seletor de Cores para Wayland
+Name[es]=Selector de Colores para Wayland
+Name[fr]=Sélecteur de Couleurs pour Wayland
+Name[de]=Farbauswahl für Wayland
+Name[it]=Selettore di Colori per Wayland
+Name[ja]=Wayland用カラーピッカー
+Name[ru]=Выбор цвета для Wayland
+Name[zh]=Wayland 颜色选择器
+
+GenericName=Color Picker
+GenericName[pt_BR]=Seletor de Cores
+GenericName[pt]=Seletor de Cores
+GenericName[es]=Selector de Colores
+GenericName[fr]=Sélecteur de Couleurs
+GenericName[de]=Farbauswahl
+GenericName[it]=Selettore di Colori
+GenericName[ja]=カラーピッカー
+GenericName[ru]=Выбор цвета
+GenericName[zh]=颜色选择器
+
+Comment=A simple Wayland color picker that also works on wlroots.
+Comment[pt_BR]=Um simples seletor de cores para Wayland que também funciona com wlroots.
+Comment[pt]=Um simples seletor de cores para Wayland que também funciona com wlroots.
+Comment[es]=Un sencillo selector de colores para Wayland que también funciona con wlroots.
+Comment[fr]=Un sélecteur de couleurs simple pour Wayland qui fonctionne également avec wlroots.
+Comment[de]=Eine einfache Farbauswahl für Wayland, die auch mit wlroots funktioniert.
+Comment[it]=Un semplice selettore di colori per Wayland che funziona anche con wlroots.
+Comment[ja]=wlrootsでも動作するシンプルなWayland用カラーピッカーです。
+Comment[ru]=Простой выбор цвета для Wayland, который также работает с wlroots.
+Comment[zh]=一个简单的 Wayland 颜色选择器，也支持 wlroots。
+
+Keywords=color;picker;wl-color-picker;
+Keywords[pt_BR]=cor;seletor;seletor de cores;wl-color-picker;
+Keywords[pt]=cor;seletor;seletor de cores;wl-color-picker;
+Keywords[es]=color;selector;selector de colores;wl-color-picker;
+Keywords[fr]=couleur;sélecteur;sélecteur de couleurs;wl-color-picker;
+Keywords[de]=farbe;farbauswahl;farbwähler;wl-color-picker;
+Keywords[it]=colore;selettore;selettore di colori;wl-color-picker;
+Keywords[ja]=色;カラーピッカー;色選択;wl-color-picker;
+Keywords[ru]=цвет;выбор цвета;палитра;wl-color-picker;
+Keywords[zh]=颜色;选择器;颜色选择器;wl-color-picker;
+
+Categories=Graphics;2DGraphics;
+Exec=/usr/local/bin/wl-color-picker.sh
+Hidden=false
+Terminal=false
+Icon=/usr/share/icons/hicolor/512x512/apps/wl-color-picker.png
+

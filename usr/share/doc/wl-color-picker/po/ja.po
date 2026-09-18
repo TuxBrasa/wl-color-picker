@@ -1,0 +1,124 @@
+# Japanese translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# fernando <kurumin@disroot.org>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-18 03:09-0300\n"
+"PO-Revision-Date: 2026-09-18 03:18-0300\n"
+"Last-Translator: fernando <kurumin@disroot.org>\n"
+"Language-Team: Japanese <translation-team-ja@lists.sourceforge.net>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Missing dependencies"
+msgstr "依存関係が不足しています"
+
+msgid "The following programs are not installed:"
+msgstr "以下のプログラムがインストールされていません："
+
+msgid "Please install them before running wl-color-picker."
+msgstr "wl-color-pickerを実行する前にインストールしてください。"
+
+msgid "No Wayland session found."
+msgstr "Waylandセッションが見つかりません。"
+
+msgid "This color picker must be run under a valid Wayland session."
+msgstr "このカラーピッカーは有効なWaylandセッションで実行する必要があります。"
+
+msgid "Select color"
+msgstr "色を選択"
+
+msgid "Color copied to clipboard."
+msgstr "色をクリップボードにコピーしました。"
+
+msgid "Saved colors"
+msgstr "保存した色"
+
+msgid "No saved colors."
+msgstr "保存された色はありません。"
+
+msgid "Select a saved color."
+msgstr "保存した色を選択してください。"
+
+msgid "Color"
+msgstr "色"
+
+msgid "Open"
+msgstr "開く"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Clear all"
+msgstr "すべて消去"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "A simple color picker for Wayland/wlroots."
+msgstr "Wayland/wlroots用のシンプルなカラーピッカーです。"
+
+msgid "Usage"
+msgstr "使用方法"
+
+msgid "Commands"
+msgstr "コマンド"
+
+msgid "Select a color and copy it directly to the clipboard"
+msgstr "色を選択してクリップボードに直接コピーします"
+
+msgid "Show saved colors"
+msgstr "保存した色を表示します"
+
+msgid "Options"
+msgstr "オプション"
+
+msgid "Don't show a system notification of copied color"
+msgstr "コピーした色のシステム通知を表示しません"
+
+msgid "Show this help message"
+msgstr "このヘルプメッセージを表示します"
+
+msgid "WL Color Picker"
+msgstr "WLカラーピッカー"
+
+msgid "Choose an option:"
+msgstr "オプションを選択してください："
+
+msgid "Option"
+msgstr "オプション"
+
+msgid "Pick a color"
+msgstr "色を選択"
+
+msgid "Select"
+msgstr "選択"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Invalid command"
+msgstr "無効なコマンド"
+
+msgid "Only one command can be specified."
+msgstr "指定できるコマンドは1つだけです。"
+
+msgid "Invalid option"
+msgstr "無効なオプション"
+
+msgid "Unknown option:"
+msgstr "不明なオプション："
+
+msgid "Use --help to see available options."
+msgstr "利用可能なオプションを表示するには--helpを使用してください。"
+
+msgid "wl-copy and notify-send are required to manage saved colors."
+msgstr "保存した色を管理するには、wl-copy、notify-sendが必要です。"
+

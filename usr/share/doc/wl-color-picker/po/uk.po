@@ -1,0 +1,125 @@
+# Ukrainian translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# fernando <kurumin@disroot.org>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-18 03:09-0300\n"
+"PO-Revision-Date: 2026-09-18 03:19-0300\n"
+"Last-Translator: fernando <kurumin@disroot.org>\n"
+"Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Missing dependencies"
+msgstr "Відсутні залежності"
+
+msgid "The following programs are not installed:"
+msgstr "Наступні програми не встановлено:"
+
+msgid "Please install them before running wl-color-picker."
+msgstr "Будь ласка, встановіть їх перед запуском wl-color-picker."
+
+msgid "No Wayland session found."
+msgstr "Сесію Wayland не знайдено."
+
+msgid "This color picker must be run under a valid Wayland session."
+msgstr "Цей вибір кольору потрібно запускати у дійсній сесії Wayland."
+
+msgid "Select color"
+msgstr "Вибрати колір"
+
+msgid "Color copied to clipboard."
+msgstr "Колір скопійовано до буфера обміну."
+
+msgid "Saved colors"
+msgstr "Збережені кольори"
+
+msgid "No saved colors."
+msgstr "Немає збережених кольорів."
+
+msgid "Select a saved color."
+msgstr "Виберіть збережений колір."
+
+msgid "Color"
+msgstr "Колір"
+
+msgid "Open"
+msgstr "Відкрити"
+
+msgid "Delete"
+msgstr "Видалити"
+
+msgid "Clear all"
+msgstr "Очистити все"
+
+msgid "Close"
+msgstr "Закрити"
+
+msgid "A simple color picker for Wayland/wlroots."
+msgstr "Простий вибір кольору для Wayland/wlroots."
+
+msgid "Usage"
+msgstr "Використання"
+
+msgid "Commands"
+msgstr "Команди"
+
+msgid "Select a color and copy it directly to the clipboard"
+msgstr "Вибрати колір і безпосередньо скопіювати його до буфера обміну"
+
+msgid "Show saved colors"
+msgstr "Показати збережені кольори"
+
+msgid "Options"
+msgstr "Параметри"
+
+msgid "Don't show a system notification of copied color"
+msgstr "Не показувати системне сповіщення про скопійований колір"
+
+msgid "Show this help message"
+msgstr "Показати це довідкове повідомлення"
+
+msgid "WL Color Picker"
+msgstr "Вибір кольору WL"
+
+msgid "Choose an option:"
+msgstr "Виберіть опцію:"
+
+msgid "Option"
+msgstr "Опція"
+
+msgid "Pick a color"
+msgstr "Вибрати колір"
+
+msgid "Select"
+msgstr "Вибрати"
+
+msgid "Cancel"
+msgstr "Скасувати"
+
+msgid "Invalid command"
+msgstr "Недійсна команда"
+
+msgid "Only one command can be specified."
+msgstr "Можна вказати лише одну команду."
+
+msgid "Invalid option"
+msgstr "Недійсний параметр"
+
+msgid "Unknown option:"
+msgstr "Невідомий параметр:"
+
+msgid "Use --help to see available options."
+msgstr "Використовуйте --help, щоб переглянути доступні параметри."
+
+msgid "wl-copy and notify-send are required to manage saved colors."
+msgstr "Для керування збереженими кольорами потрібні wl-copy та notify-send."
+

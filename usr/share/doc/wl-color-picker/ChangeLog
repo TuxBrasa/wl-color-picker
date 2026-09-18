@@ -1,0 +1,91 @@
+Feb 18, 2026 v1.5
+
+What's Changed
+
+Added
+
+Added saved colors management with the saved command.
+Added persistent storage for saved colors in:
+~/.config/wl-color-picker/colors
+Added graphical interface for viewing saved colors.
+Added ability to reopen and edit saved colors.
+Added ability to delete individual saved colors.
+Added ability to clear all saved colors.
+Added duplicate prevention when saving colors.
+Added hexadecimal color validation and normalization to uppercase #RRGGBB.
+Added support for selecting colors through a graphical YAD color editor.
+Added a graphical main menu when no command is specified.
+Added automatic creation of the configuration directory and colors file.
+Added separate dependency handling for the saved command.
+Added support for ImageMagick through the magick command in addition to GraphicsMagick.
+Added gettext-based internationalization.
+Added localized fallback messages when gettext is unavailable.
+Added Ukrainian (uk) language support.
+Added localized fallback messages for Portuguese, Spanish, French, German, Italian, Japanese, Russian, Chinese, and Ukrainian.
+Added improved error handling for missing dependencies.
+Added graceful handling of cancelled color selection and color editing dialogs.
+Added cleanup of temporary screenshot files after color extraction.
+
+Changed
+
+Saved colors are now normalized before being stored.
+The saved command no longer requires slurp, grim, or ImageMagick/GraphicsMagick.
+Color extraction now supports both GraphicsMagick and ImageMagick.
+Improved error reporting through YAD when available, with terminal fallback otherwise.
+
+Internationalization
+
+Added gettext domain configuration for wl-color-picker.
+Added support for localized interface strings through:
+/usr/share/locale
+Added Ukrainian (uk) to the supported languages.
+
+
+Full Changelog: v1.4...v1.5
+
+Feb 24, 2025 v1.4
+
+What's Changed
+
+Added option to show help with: --help, -h, help or ?
+Added notification on clipboard command @yuckdevchan in #5
+Added --no-notify flag on clipboard command @filip-rs in #8
+
+
+New Contributors
+
+@yuckdevchan made their first contribution in #5
+@filip-rs made their first contribution in #8
+
+
+Full Changelog: v1.3...v1.4
+
+Jan 11, 2022 v1.3
+
+What's Changed
+
+Remove newline while copying to clipboard by @CIAvash in #2
+Add option to copy selected color without opening window by @fowlerro in #3
+
+
+New Contributors
+
+@CIAvash made their first contribution in #2
+@fowlerro made their first contribution in #3
+
+
+Full Changelog: v1.2...v1.3
+
+Feb 11, 2021 v1.2
+
+Replaced ppm with png since ppm seems to be giving issues on latest graphicksmagick.
+
+Jan 15, 2021 v1.1
+
+Added support for graphicsmagick thanks to @jghauser
+Check if the color picker is been run from a valid wayland session and if not show a error dialog.
+
+Jan 4, 2021 v1.0
+
+The first release of the simple color picker script for wayland.
+

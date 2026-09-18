@@ -1,0 +1,166 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-18 03:09-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wl-color-picker.sh:153
+#: wl-color-picker.sh:680
+msgid "Missing dependencies"
+msgstr ""
+
+#: wl-color-picker.sh:155
+msgid "The following programs are not installed:"
+msgstr ""
+
+#: wl-color-picker.sh:157
+msgid "Please install them before running wl-color-picker."
+msgstr ""
+
+#: wl-color-picker.sh:176
+msgid "No Wayland session found."
+msgstr ""
+
+#: wl-color-picker.sh:177
+msgid "This color picker must be run under a valid Wayland session."
+msgstr ""
+
+#: wl-color-picker.sh:344
+msgid "Select color"
+msgstr ""
+
+#: wl-color-picker.sh:375
+msgid "Color copied to clipboard."
+msgstr ""
+
+#: wl-color-picker.sh:457
+#: wl-color-picker.sh:467
+#: wl-color-picker.sh:558
+#: wl-color-picker.sh:575
+msgid "Saved colors"
+msgstr ""
+
+#: wl-color-picker.sh:458
+msgid "No saved colors."
+msgstr ""
+
+#: wl-color-picker.sh:468
+msgid "Select a saved color."
+msgstr ""
+
+#: wl-color-picker.sh:471
+msgid "Color"
+msgstr ""
+
+#: wl-color-picker.sh:474
+msgid "Open"
+msgstr ""
+
+#: wl-color-picker.sh:475
+msgid "Delete"
+msgstr ""
+
+#: wl-color-picker.sh:476
+msgid "Clear all"
+msgstr ""
+
+#: wl-color-picker.sh:477
+msgid "Close"
+msgstr ""
+
+#: wl-color-picker.sh:524
+msgid "A simple color picker for Wayland/wlroots."
+msgstr ""
+
+#: wl-color-picker.sh:526
+msgid "Usage"
+msgstr ""
+
+#: wl-color-picker.sh:529
+msgid "Commands"
+msgstr ""
+
+#: wl-color-picker.sh:530
+msgid "Select a color and copy it directly to the clipboard"
+msgstr ""
+
+#: wl-color-picker.sh:531
+msgid "Show saved colors"
+msgstr ""
+
+#: wl-color-picker.sh:533
+msgid "Options"
+msgstr ""
+
+#: wl-color-picker.sh:534
+msgid "Don't show a system notification of copied color"
+msgstr ""
+
+#: wl-color-picker.sh:535
+msgid "Show this help message"
+msgstr ""
+
+#: wl-color-picker.sh:551
+msgid "WL Color Picker"
+msgstr ""
+
+#: wl-color-picker.sh:552
+msgid "Choose an option:"
+msgstr ""
+
+#: wl-color-picker.sh:556
+msgid "Option"
+msgstr ""
+
+#: wl-color-picker.sh:557
+#: wl-color-picker.sh:571
+msgid "Pick a color"
+msgstr ""
+
+#: wl-color-picker.sh:561
+msgid "Select"
+msgstr ""
+
+#: wl-color-picker.sh:562
+msgid "Cancel"
+msgstr ""
+
+#: wl-color-picker.sh:606
+#: wl-color-picker.sh:617
+msgid "Invalid command"
+msgstr ""
+
+#: wl-color-picker.sh:607
+#: wl-color-picker.sh:618
+msgid "Only one command can be specified."
+msgstr ""
+
+#: wl-color-picker.sh:631
+msgid "Invalid option"
+msgstr ""
+
+#: wl-color-picker.sh:633
+msgid "Unknown option:"
+msgstr ""
+
+#: wl-color-picker.sh:634
+msgid "Use --help to see available options."
+msgstr ""
+
+#: wl-color-picker.sh:681
+msgid "wl-copy and notify-send are required to manage saved colors."
+msgstr ""
+

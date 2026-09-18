@@ -1,0 +1,125 @@
+# Russian translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# fernando <kurumin@disroot.org>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-18 03:09-0300\n"
+"PO-Revision-Date: 2026-09-18 03:19-0300\n"
+"Last-Translator: fernando <kurumin@disroot.org>\n"
+"Language-Team: Russian <gnu@d07.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Missing dependencies"
+msgstr "Отсутствуют зависимости"
+
+msgid "The following programs are not installed:"
+msgstr "Следующие программы не установлены:"
+
+msgid "Please install them before running wl-color-picker."
+msgstr "Пожалуйста, установите их перед запуском wl-color-picker."
+
+msgid "No Wayland session found."
+msgstr "Сессия Wayland не найдена."
+
+msgid "This color picker must be run under a valid Wayland session."
+msgstr "Этот выбор цвета должен выполняться в действительной сессии Wayland."
+
+msgid "Select color"
+msgstr "Выбрать цвет"
+
+msgid "Color copied to clipboard."
+msgstr "Цвет скопирован в буфер обмена."
+
+msgid "Saved colors"
+msgstr "Сохранённые цвета"
+
+msgid "No saved colors."
+msgstr "Нет сохранённых цветов."
+
+msgid "Select a saved color."
+msgstr "Выберите сохранённый цвет."
+
+msgid "Color"
+msgstr "Цвет"
+
+msgid "Open"
+msgstr "Открыть"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Clear all"
+msgstr "Очистить всё"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "A simple color picker for Wayland/wlroots."
+msgstr "Простой выбор цвета для Wayland/wlroots."
+
+msgid "Usage"
+msgstr "Использование"
+
+msgid "Commands"
+msgstr "Команды"
+
+msgid "Select a color and copy it directly to the clipboard"
+msgstr "Выбрать цвет и сразу скопировать его в буфер обмена"
+
+msgid "Show saved colors"
+msgstr "Показать сохранённые цвета"
+
+msgid "Options"
+msgstr "Параметры"
+
+msgid "Don't show a system notification of copied color"
+msgstr "Не показывать системное уведомление о скопированном цвете"
+
+msgid "Show this help message"
+msgstr "Показать это справочное сообщение"
+
+msgid "WL Color Picker"
+msgstr "Выбор цвета WL"
+
+msgid "Choose an option:"
+msgstr "Выберите вариант:"
+
+msgid "Option"
+msgstr "Вариант"
+
+msgid "Pick a color"
+msgstr "Выбрать цвет"
+
+msgid "Select"
+msgstr "Выбрать"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Invalid command"
+msgstr "Недопустимая команда"
+
+msgid "Only one command can be specified."
+msgstr "Можно указать только одну команду."
+
+msgid "Invalid option"
+msgstr "Недопустимый параметр"
+
+msgid "Unknown option:"
+msgstr "Неизвестный параметр:"
+
+msgid "Use --help to see available options."
+msgstr "Используйте --help для просмотра доступных параметров."
+
+msgid "wl-copy and notify-send are required to manage saved colors."
+msgstr "Для управления сохранёнными цветами необходимы wl-copy и notify-send."
+

@@ -1,0 +1,166 @@
+# German translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# fernando <kurumin@disroot.org>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-18 03:09-0300\n"
+"PO-Revision-Date: 2026-09-18 03:18-0300\n"
+"Last-Translator: fernando <kurumin@disroot.org>\n"
+"Language-Team: German <translation-team-de@lists.sourceforge.net>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wl-color-picker.sh:153
+#: wl-color-picker.sh:680
+msgid "Missing dependencies"
+msgstr "Fehlende Abhängigkeiten"
+
+#: wl-color-picker.sh:155
+msgid "The following programs are not installed:"
+msgstr "Die folgenden Programme sind nicht installiert:"
+
+#: wl-color-picker.sh:157
+msgid "Please install them before running wl-color-picker."
+msgstr "Bitte installieren Sie sie, bevor Sie wl-color-picker ausführen."
+
+#: wl-color-picker.sh:176
+msgid "No Wayland session found."
+msgstr "Keine Wayland-Sitzung gefunden."
+
+#: wl-color-picker.sh:177
+msgid "This color picker must be run under a valid Wayland session."
+msgstr "Dieser Farbwähler muss in einer gültigen Wayland-Sitzung ausgeführt werden."
+
+#: wl-color-picker.sh:344
+msgid "Select color"
+msgstr "Farbe auswählen"
+
+#: wl-color-picker.sh:375
+msgid "Color copied to clipboard."
+msgstr "Farbe in die Zwischenablage kopiert."
+
+#: wl-color-picker.sh:457
+#: wl-color-picker.sh:467
+#: wl-color-picker.sh:558
+#: wl-color-picker.sh:575
+msgid "Saved colors"
+msgstr "Gespeicherte Farben"
+
+#: wl-color-picker.sh:458
+msgid "No saved colors."
+msgstr "Keine gespeicherten Farben."
+
+#: wl-color-picker.sh:468
+msgid "Select a saved color."
+msgstr "Gespeicherte Farbe auswählen."
+
+#: wl-color-picker.sh:471
+msgid "Color"
+msgstr "Farbe"
+
+#: wl-color-picker.sh:474
+msgid "Open"
+msgstr "Öffnen"
+
+#: wl-color-picker.sh:475
+msgid "Delete"
+msgstr "Löschen"
+
+#: wl-color-picker.sh:476
+msgid "Clear all"
+msgstr "Alle löschen"
+
+#: wl-color-picker.sh:477
+msgid "Close"
+msgstr "Schließen"
+
+#: wl-color-picker.sh:524
+msgid "A simple color picker for Wayland/wlroots."
+msgstr "Ein einfacher Farbwähler für Wayland/wlroots."
+
+#: wl-color-picker.sh:526
+msgid "Usage"
+msgstr "Verwendung"
+
+#: wl-color-picker.sh:529
+msgid "Commands"
+msgstr "Befehle"
+
+#: wl-color-picker.sh:530
+msgid "Select a color and copy it directly to the clipboard"
+msgstr "Eine Farbe auswählen und direkt in die Zwischenablage kopieren"
+
+#: wl-color-picker.sh:531
+msgid "Show saved colors"
+msgstr "Gespeicherte Farben anzeigen"
+
+#: wl-color-picker.sh:533
+msgid "Options"
+msgstr "Optionen"
+
+#: wl-color-picker.sh:534
+msgid "Don't show a system notification of copied color"
+msgstr "Keine Systembenachrichtigung über die kopierte Farbe anzeigen"
+
+#: wl-color-picker.sh:535
+msgid "Show this help message"
+msgstr "Diese Hilfe anzeigen"
+
+#: wl-color-picker.sh:551
+msgid "WL Color Picker"
+msgstr "WL-Farbwähler"
+
+#: wl-color-picker.sh:552
+msgid "Choose an option:"
+msgstr "Option auswählen:"
+
+#: wl-color-picker.sh:556
+msgid "Option"
+msgstr "Option"
+
+#: wl-color-picker.sh:557
+#: wl-color-picker.sh:571
+msgid "Pick a color"
+msgstr "Farbe auswählen"
+
+#: wl-color-picker.sh:561
+msgid "Select"
+msgstr "Auswählen"
+
+#: wl-color-picker.sh:562
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: wl-color-picker.sh:606
+#: wl-color-picker.sh:617
+msgid "Invalid command"
+msgstr "Ungültiger Befehl"
+
+#: wl-color-picker.sh:607
+#: wl-color-picker.sh:618
+msgid "Only one command can be specified."
+msgstr "Es kann nur ein Befehl angegeben werden."
+
+#: wl-color-picker.sh:631
+msgid "Invalid option"
+msgstr "Ungültige Option"
+
+#: wl-color-picker.sh:633
+msgid "Unknown option:"
+msgstr "Unbekannte Option:"
+
+#: wl-color-picker.sh:634
+msgid "Use --help to see available options."
+msgstr "Verwenden Sie --help, um die verfügbaren Optionen anzuzeigen."
+
+#: wl-color-picker.sh:681
+msgid "wl-copy and notify-send are required to manage saved colors."
+msgstr "wl-copy und notify-send werden zur Verwaltung gespeicherter Farben benötigt."
+
